@@ -1,5 +1,5 @@
 ---
-title: "Reddit の創業者たち"
+title: "Reddit の創業者たち（The Reddits）ポール・グレアム翻訳 Advent Calendar 2024 2日目"
 emoji: "💬"
 type: "idea"
 topics: ["Reddit", "スタートアップ", "ポール・グレアム", "翻訳", "アドベントカレンダー"]
