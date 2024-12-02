@@ -7,7 +7,7 @@ published: true
 published_at: "2024-12-02"
 ---
 
-これは [ポール・グレアム翻訳 Advent Calendar 2024](https://adventar.org/calendars/10831) の2日目の記事です。
+これは [ポール・グレアム翻訳 Advent Calendar 2024](https://adventar.org/calendars/10831) 2日目の記事です。
 
 - 英語原文：[The Reddits](https://paulgraham.com/reddits.html)
 - Paul は[エッセイの翻訳を許可](https://paulgraham.com/gfaq.html)しています
