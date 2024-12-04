@@ -1,5 +1,5 @@
 ---
-title: "「あなたが(望むことを)*望むこと（What You (Want to)* Want）」ポール・グレアム翻訳 Advent Calendar 2024 5日目"
+title: "あなたが(望むことを)*望むこと（What You (Want to)* Want）"
 emoji: "🎋"
 type: "idea"
 topics: ["ポール・グレアム", "翻訳", "アドベントカレンダー"]
