@@ -1,12 +1,17 @@
 ---
-title: "あなたが(望むことを)*望むこと（What You (Want to)* Want）"
+title: "「あなたが(望むことを)*望むこと（What You (Want to)* Want）」ポール・グレアム翻訳 Advent Calendar 2024 5日目"
 emoji: "🎋"
 type: "idea"
 topics: ["ポール・グレアム", "翻訳", "アドベントカレンダー"]
-published: false
+published: true
+published_at: "2024-12-05"
 ---
 
-これは [ポール・グレアム翻訳 Advent Calendar 2024](https://adventar.org/calendars/10831) のn日目の記事であり、[What You (Want to)* Want](https://paulgraham.com/want.html) の翻訳です。なお、Paul は[エッセイの翻訳を許可](https://paulgraham.com/gfaq.html)しています。
+これは [ポール・グレアム翻訳 Advent Calendar 2024](https://adventar.org/calendars/10831) 5日目の記事です。
+
+- 英語原文：[What You (Want to)* Want](https://paulgraham.com/want.html)
+- Paul は[エッセイの翻訳を許可](https://paulgraham.com/gfaq.html)しています
+- 翻訳原稿は https://github.com/spinute/zenn/blob/master/articles/bedbd7fd73b42e.md で公開しています（修正・改善のための issue や PR を歓迎します）
 
 ---
 
