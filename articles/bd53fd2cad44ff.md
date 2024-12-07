@@ -4,10 +4,10 @@ emoji: "📖"
 type: "idea"
 topics: ["翻訳", "ポール・グレアム", "アドベントカレンダー"]
 published: true
-published_at: "2024-12-07"
+published_at: "2024-12-08"
 ---
 
-これは [ポール・グレアム翻訳 Advent Calendar 2024](https://adventar.org/calendars/10831) 7日目の記事です。
+これは [ポール・グレアム翻訳 Advent Calendar 2024](https://adventar.org/calendars/10831) 8日目の記事です。
 
 - 英語原文：[Write Simply](https://paulgraham.com/simply.html)
 - Paul は[エッセイの翻訳を許可](https://paulgraham.com/gfaq.html)しています
